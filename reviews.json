@@ -1,6 +1,14 @@
 {
-  "updated": 1795635059029,
+  "updated": 1795635334619,
   "reviews": [
+    {
+      "name": "Jim",
+      "avatar": "https://cdn.discordapp.com/avatars/921235021291986974/3c1eab8c8eb8c87d3d699bcdfa8198ef.png?size=64",
+      "rating": 5,
+      "product": "QBCORE DIAMOND EDITION",
+      "text": "Hands down the best QBCore server base I have bought. Everything is pre-configured, optimized, and runs at a solid resmon with zero console errors.",
+      "ts": 1795635315250
+    },
     {
       "name": "Customer",
       "avatar": "",
