@@ -1,6 +1,14 @@
 {
-  "updated": 1795576197906,
+  "updated": 1795577447859,
   "reviews": [
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "FIVEM CLOTHING PACK",
+      "text": "Drag and drop installation, worked smoothly on my QBCore server right away. No clipping issues or broken textures—totally worth $55.",
+      "ts": 1795577430250
+    },
     {
       "name": "Customer",
       "avatar": "",
