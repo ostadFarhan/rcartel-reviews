@@ -1,6 +1,14 @@
 {
-  "updated": 1795635493421,
+  "updated": 1795635626992,
   "reviews": [
+    {
+      "name": "Avery",
+      "avatar": "https://cdn.discordapp.com/avatars/1570519090634821636/6bebb52783e48e68b88aff7ddbdd6d3b.png?size=64",
+      "rating": 5,
+      "product": "QBCORE DIAMOND EDITION",
+      "text": "Honestly worth every penny of the $150. The economy is well-balanced, and the custom UI looks clean and modern without hurting player FPS.",
+      "ts": 1795635609550
+    },
     {
       "name": "VXR@R",
       "avatar": "https://cdn.discordapp.com/avatars/1381680592956952650/b2fff027b5fcb0316e821880bd88ba13.png?size=64",
