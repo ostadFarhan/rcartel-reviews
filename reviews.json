@@ -1,6 +1,14 @@
 {
-  "updated": 1795569477020,
+  "updated": 1795570543024,
   "reviews": [
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "QBCORE DIAMOND EDITION",
+      "text": "Simple, clean, and comfortable. No annoying tags scratching the neck either. Exactly what I look for in an everyday clothing pack.",
+      "ts": 1795570529555
+    },
     {
       "name": "Customer",
       "avatar": "",
