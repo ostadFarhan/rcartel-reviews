@@ -1,6 +1,14 @@
 {
-  "updated": 1795635334619,
+  "updated": 1795635493421,
   "reviews": [
+    {
+      "name": "VXR@R",
+      "avatar": "https://cdn.discordapp.com/avatars/1381680592956952650/b2fff027b5fcb0316e821880bd88ba13.png?size=64",
+      "rating": 5,
+      "product": "QBCORE DIAMOND EDITION",
+      "text": "Saved me months of development time. The scripts, custom MLOs, and job systems in the Diamond Edition work together seamlessly right out of the box.",
+      "ts": 1795635475131
+    },
     {
       "name": "Jim",
       "avatar": "https://cdn.discordapp.com/avatars/921235021291986974/3c1eab8c8eb8c87d3d699bcdfa8198ef.png?size=64",
