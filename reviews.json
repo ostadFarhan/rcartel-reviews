@@ -1,6 +1,14 @@
 {
-  "updated": 1795634324980,
+  "updated": 1795634889471,
   "reviews": [
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "Clothing Pack",
+      "text": "Smooth transaction and fast shipping. The sizing chart was accurate, and the fabric feels gentle on the skin even after wearing it all day.",
+      "ts": 1795634872251
+    },
     {
       "name": "Customer",
       "avatar": "",
