@@ -1,6 +1,22 @@
 {
-  "updated": 1795719100272,
+  "updated": 1795726616897,
   "reviews": [
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "Clothing Pack",
+      "text": "Don't expect luxury-brand thickness, but considering what you're paying for the whole bundle, it's an easy 8/10. Definitely a solid budget deal.",
+      "ts": 1795726595401
+    },
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "Clothing Pack",
+      "text": "Ordered this pack for my younger brother and he really liked it. The color combinations are nice and wearable. Thanks to the seller for delivering good stuff.",
+      "ts": 1795718885462
+    },
     {
       "name": "dhnnz",
       "avatar": "https://cdn.discordapp.com/avatars/1570520103659774173/c605df1a3082f81d26f7de9b4b42f953.png?size=64",
