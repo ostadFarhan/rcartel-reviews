@@ -1,6 +1,14 @@
 {
-  "updated": 1795695065804,
+  "updated": 1795698386738,
   "reviews": [
+    {
+      "name": "Feldo Propane",
+      "avatar": "https://cdn.discordapp.com/avatars/1570748730259415080/283d8fafe21b6c2e6e9b37cc682e69b3.png?size=64",
+      "rating": 5,
+      "product": "QBCORE DIAMOND EDITION",
+      "text": "Smooth installation and awesome features across the board. Our player base grew fast after switching to this Diamond Edition build.",
+      "ts": 1795698367732
+    },
     {
       "name": "Avery",
       "avatar": "https://cdn.discordapp.com/avatars/1570519090634821636/6bebb52783e48e68b88aff7ddbdd6d3b.png?size=64",
