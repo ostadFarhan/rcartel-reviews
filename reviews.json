@@ -1,6 +1,14 @@
 {
-  "updated": 1795702023890,
+  "updated": 1795705508980,
   "reviews": [
+    {
+      "name": "wherearetheavocados🎄",
+      "avatar": "https://cdn.discordapp.com/avatars/1570520185155362908/196f5ecf6cd04282b09026b185116498.png?size=64",
+      "rating": 5,
+      "product": "QBCORE DIAMOND EDITION",
+      "text": "Everything is neatly organized in the resources folder, making it super easy to manage. No messy dependencies or missing SQL files.",
+      "ts": 1795705488774
+    },
     {
       "name": "mark??",
       "avatar": "https://cdn.discordapp.com/avatars/1570520638731329706/36a8aeda9fca6d160f17b527e8c41934.png?size=64",
