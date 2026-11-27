@@ -1,6 +1,30 @@
 {
-  "updated": 1795788423214,
+  "updated": 1795791113707,
   "reviews": [
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "Clothing Pack",
+      "text": "Great value bundle. Washed them twice already and the shape hasn't shrunk or stretched out at all. Super happy with the quality.",
+      "ts": 1795791089930
+    },
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "Clothing Pack",
+      "text": "Honestly, the fabric quality is surprisingly good for the price. It’s perfect for rough daily use. All the colors in the pack look nice, and none of them bled or faded after the first wash.",
+      "ts": 1795788316005
+    },
+    {
+      "name": "Customer",
+      "avatar": "",
+      "rating": 5,
+      "product": "Clothing Pack",
+      "text": "I ordered a size L and the fit is spot on. That said, if you prefer a slightly looser or oversized fit, I’d recommend sizing up. Overall, very satisfied with the purchase.",
+      "ts": 1795788044602
+    },
     {
       "name": "Customer",
       "avatar": "",
