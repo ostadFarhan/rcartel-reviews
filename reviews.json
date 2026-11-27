@@ -1,6 +1,14 @@
 {
-  "updated": 1795791722188,
+  "updated": 1795794689390,
   "reviews": [
+    {
+      "name": "𝒜𝒷𝓊 𝒶𝓁 3𝓏",
+      "avatar": "https://cdn.discordapp.com/avatars/1435613945195921508/23d61db478ec5479c8be4e703f2c010b.png?size=64",
+      "rating": 5,
+      "product": "VALOM ARENA",
+      "text": "Super clean UI, smooth weapon handling, and solid anti-cheat integration. Everything is pre-configured so I got my arena server live the same day.",
+      "ts": 1795794666088
+    },
     {
       "name": "𝔊𝔥𝔬𝔰𝔱'𝔰 𝔓𝔬𝔬𝔨𝔦𝔢~ 💀",
       "avatar": "https://cdn.discordapp.com/avatars/649074191441592345/3cd0e4755c7daac09794c13fced566d9.png?size=64",
