@@ -1,6 +1,14 @@
 {
-  "updated": 1795805054145,
+  "updated": 1795806976620,
   "reviews": [
+    {
+      "name": "Theo",
+      "avatar": "https://cdn.discordapp.com/avatars/1182762393487560885/2cae8259ffd528b578d35a716e00f0ad.png?size=64",
+      "rating": 5,
+      "product": "VALOM ARENA",
+      "text": "Great variety of arena maps, FFA zones, and custom duel modes. Smooth performance and fast support whenever I had a setup question.",
+      "ts": 1795806955165
+    },
     {
       "name": "Δδαмο",
       "avatar": "https://cdn.discordapp.com/avatars/630132891321368599/87906701573a61170c6b177f9cd7ebd1.png?size=64",
