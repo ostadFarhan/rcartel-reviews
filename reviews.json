@@ -1,6 +1,14 @@
 {
-  "updated": 1795791113707,
+  "updated": 1795791556307,
   "reviews": [
+    {
+      "name": "𝕮𝖔𝖗𝖙𝖊𝖘",
+      "avatar": "https://cdn.discordapp.com/avatars/752096180133167106/a01cfb48070990922736bc57ae6f7e97.png?size=64",
+      "rating": 5,
+      "product": "VALOM ARENA",
+      "text": "Hands down the best PvP and Arena server base out there. Hit registration feels super crisp, and the custom maps run with zero FPS drops.",
+      "ts": 1795791534618
+    },
     {
       "name": "Customer",
       "avatar": "",
